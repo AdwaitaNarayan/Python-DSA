@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |

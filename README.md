@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

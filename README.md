@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

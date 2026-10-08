@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/1291-sequential-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

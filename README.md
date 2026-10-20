@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0049-group-anagrams) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |

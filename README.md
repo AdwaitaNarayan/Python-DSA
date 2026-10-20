@@ -95,3 +95,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
+<hr>
+
+
+<!---GeeksForGeeks Companies Start-->
+# GeeksForGeeks Companies
+
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
+
+## Goldman Sachs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
+
+## Fab.com
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
+
+<!---GeeksForGeeks Companies End-->
+
+<hr>
+
+
+<!---GeeksForGeeks Tags Start-->
+# GeeksForGeeks Tags
+
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
+
+<!---GeeksForGeeks Tags End-->

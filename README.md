@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdwaitaNarayan/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |

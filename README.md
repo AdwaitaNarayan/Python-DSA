@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <hr>
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -123,9 +124,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
 
+## Amazon
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplets-with-smaller-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/triplets-with-smaller-sum/) | Medium |
+
+## SAP Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplets-with-smaller-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/triplets-with-smaller-sum/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
+
 <hr>
+
 
 
 <!---GeeksForGeeks Tags Start-->
@@ -135,5 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [segregate-0s-and-1s](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/segregate-0s-and-1s/) | Easy |
+| [triplets-with-smaller-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/triplets-with-smaller-sum/) | Medium |
+
+## two-pointer-algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplets-with-smaller-sum](https://github.com/AdwaitaNarayan/Python-DSA/tree/main/triplets-with-smaller-sum/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
